@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://uuxeilieth.farmfarm.org/sitemap.xml
